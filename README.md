@@ -12,3 +12,11 @@ Bitcoin is a protocol which implements a highly available, public, permanent, an
 - Dart
 - Javascript
 - Typescript
+
+
+## Roadmap
+
+- [ ] Node
+- [ ] BIP-39, BIP44
+- [ ] SDK
+- [ ] Alpha Software
