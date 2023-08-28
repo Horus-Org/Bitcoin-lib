@@ -1,4 +1,4 @@
-# Bitcoin-lib
+# Bitcoin Library
 
 Library for Bitcoin
 
