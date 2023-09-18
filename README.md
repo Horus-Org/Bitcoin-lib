@@ -1,6 +1,9 @@
-# Bitcoin Library
+# Bitcoin Library 🪙
 
 Library for Bitcoin
+
+**Contributions are welcome**
+
 
 ## What is Bitcoin?
 
