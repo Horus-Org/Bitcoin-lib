@@ -9,3 +9,5 @@ Theses libraries will be used for help developers via SDK
 - Light Client
 - Generate Keys
 - Xpub
+- APIs
+- RPCs
