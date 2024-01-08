@@ -1,3 +1,3 @@
-## Bitcoin Library Release
+## Bitcoin Library Releases and Development
 
 TBD
