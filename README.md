@@ -1,6 +1,6 @@
 # Bitcoin Library 🪙
 
-Library for Bitcoin
+>Library for Bitcoin
 
 **Contributions are welcome**
 
