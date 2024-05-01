@@ -30,3 +30,4 @@ Bitcoin is a protocol which implements a highly available, public, permanent, an
 - [ ] BIPs
 - [ ] Beta
 - [ ] RBF
+- [ ] Lightning compatible
