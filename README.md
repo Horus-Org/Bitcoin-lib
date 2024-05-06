@@ -31,3 +31,4 @@ Bitcoin is a protocol which implements a highly available, public, permanent, an
 - [ ] Beta
 - [ ] RBF
 - [ ] Lightning compatible
+- [ ] BOLT11 and BOLT12
