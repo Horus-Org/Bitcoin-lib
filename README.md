@@ -16,6 +16,7 @@ Bitcoin is a protocol which implements a highly available, public, permanent, an
 - Javascript
 - Typescript
 - Rust
+- Dockerfile
 
 
 ## Roadmap
