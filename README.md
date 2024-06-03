@@ -24,7 +24,7 @@ Bitcoin is a protocol which implements a highly available, public, permanent, an
 - [x] Node
 - [x] BIP-39, BIP44
 - [x] Initial SDK
-- [ ] Initial design
+- [x] Initial design
 - [ ] Alpha Software
 - [ ] APIs
 - [ ] Clear documentation
